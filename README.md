@@ -4,6 +4,7 @@ An AI-powered application built with Streamlit that leverages a multi-agent syst
 
 ## Features
 - **AI Multi-Agent System:** Powered by CrewAI to coordinate specialized agents for tasks like job posting analysis, resume tailoring, and interview preparation.
+- 
 - **Resume Parsing:** Extracts and converts resume content from PDF to Markdown.
 - **Job Posting Analysis:** Scrapes and analyzes job postings to identify key skills and requirements.
 - **Professional Profiling:** Compiles comprehensive profiles using GitHub links and personal write-ups.
